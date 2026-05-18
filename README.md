@@ -1,7 +1,7 @@
 # Examen 3 - Servicio Telemático con Docker
 
 ## Descripción
-Servicio web desplegado en contenedor Docker usando nginx, corriendo en AWS EC2 con balanceador de carga.
+Servicio web desplegado en contenedor Docker corriendo en AWS EC2.
 
 ## Requisitos
 - Docker instalado en la máquina objetivo
